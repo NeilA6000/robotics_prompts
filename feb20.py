@@ -1,0 +1,7 @@
+myName = input( "What's your name? ")
+myAge = input( "How old are you? ")
+print("Cool!")
+input ("Do you like Replit?")
+print("Of course you do!")
+print("So, you are " + myName)
+print("And you're " + myAge + " years old")
