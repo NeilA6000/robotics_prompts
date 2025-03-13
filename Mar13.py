@@ -1,3 +1,5 @@
+#Today, i learned quite a lot. Mr Pancratz taught me how to use or operators effectively in Python in my code, which I believe won't just help me in console situations, but can help me in many more
+#if I make a game or something.
 interest = input("Are you interested in coding?")
 if (interest == "yes" or interest == "Yes"):
     print("Great!")
